@@ -1,0 +1,5 @@
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.dll.config
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.dll
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.pdb
+F:\FW Projects\IGL_VSS\BAL\obj\Release\BAL.dll
+F:\FW Projects\IGL_VSS\BAL\obj\Release\BAL.pdb

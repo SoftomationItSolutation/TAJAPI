@@ -1,0 +1,47 @@
+C:\Pankaj Bahuguna\IGL_VSS\BAL\bin\BAL.dll.config
+C:\Pankaj Bahuguna\IGL_VSS\BAL\bin\BAL.dll
+C:\Pankaj Bahuguna\IGL_VSS\BAL\bin\BAL.pdb
+C:\Pankaj Bahuguna\IGL_VSS\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Pankaj Bahuguna\IGL_VSS\BAL\obj\Debug\BAL.dll
+C:\Pankaj Bahuguna\IGL_VSS\BAL\obj\Debug\BAL.pdb
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.dll.config
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.dll
+F:\FW Projects\IGL_VSS\BAL\bin\BAL.pdb
+F:\FW Projects\IGL_VSS\BAL\obj\Debug\BAL.dll
+F:\FW Projects\IGL_VSS\BAL\obj\Debug\BAL.pdb
+F:\FW Projects\IGL_VSS\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\IGL\10 Feb - Home\IGL_DPR_MVC\BAL\bin\BAL.dll.config
+C:\IGL\10 Feb - Home\IGL_DPR_MVC\BAL\bin\BAL.dll
+C:\IGL\10 Feb - Home\IGL_DPR_MVC\BAL\bin\BAL.pdb
+C:\IGL\10 Feb - Home\IGL_DPR_MVC\BAL\obj\Debug\BAL.dll
+C:\IGL\10 Feb - Home\IGL_DPR_MVC\BAL\obj\Debug\BAL.pdb
+D:\SD_Projects\DPR\Services\BAL\bin\BAL.dll.config
+D:\SD_Projects\DPR\Services\BAL\bin\BAL.dll
+D:\SD_Projects\DPR\Services\BAL\bin\BAL.pdb
+D:\SD_Projects\DPR\Services\BAL\obj\Debug\BAL.csproj.ResolveComReference.cache
+D:\SD_Projects\DPR\Services\BAL\obj\Debug\BAL.dll
+D:\SD_Projects\DPR\Services\BAL\obj\Debug\BAL.pdb
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\obj\Debug\BAL.csproj.ResolveComReference.cache
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\obj\Debug\BAL.dll
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\obj\Debug\BAL.pdb
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\bin\BAL.dll
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\bin\BAL.pdb
+C:\Users\Pundir\Desktop\app data\backup\19-May-2018\Services\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\bin\BAL.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\bin\BAL.pdb
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\obj\Debug\BAL.csproj.ResolveComReference.cache
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\obj\Debug\BAL.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\obj\Debug\BAL.pdb
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\bin\BAL.dll
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\bin\BAL.pdb
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\obj\Debug\BAL.csproj.ResolveComReference.cache
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\obj\Debug\BAL.dll
+C:\Users\Pundir\Desktop\Bakup\25-May-2018\my work\Services\BAL\obj\Debug\BAL.pdb
+D:\Projects\WebApi\Services\BAL\bin\BAL.dll
+D:\Projects\WebApi\Services\BAL\bin\BAL.pdb
+D:\Projects\WebApi\Services\BAL\obj\Debug\BAL.csproj.ResolveComReference.cache
+D:\Projects\WebApi\Services\BAL\obj\Debug\BAL.dll
+D:\Projects\WebApi\Services\BAL\obj\Debug\BAL.pdb
+D:\Projects\WebApi\Services\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache

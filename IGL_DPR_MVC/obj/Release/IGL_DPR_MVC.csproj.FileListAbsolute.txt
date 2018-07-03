@@ -1,0 +1,270 @@
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll.config
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.pdb
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Antlr3.Runtime.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.SqlServer.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Newtonsoft.Json.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Owin.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Net.Http.Formatting.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Helpers.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.WebHost.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Mvc.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Optimization.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Razor.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\WebGrease.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Helpers.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Mvc.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Optimization.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Razor.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Antlr3.Runtime.pdb
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Newtonsoft.Json.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Net.Http.Formatting.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.WebHost.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.SqlServer.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.pdb
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Cors.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.Cors.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.Cors.xml
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\BAL.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\DAL.dll
+F:\FW Projects Old\IGL_DPR_MVC\IGL_DPR_MVC\bin\BAL.pdb
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll.config
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\IGL_DPR_MVC.pdb
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Antlr3.Runtime.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\BAL.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.SqlServer.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\MultipartDataMediaFormatter.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Newtonsoft.Json.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Owin.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Net.Http.Formatting.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Cors.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Helpers.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.Cors.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.WebHost.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Mvc.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Optimization.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Razor.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\WebGrease.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\DAL.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\BAL.pdb
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Net.Http.Formatting.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.Cors.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Helpers.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Mvc.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Optimization.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Razor.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Antlr3.Runtime.pdb
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Newtonsoft.Json.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\System.Web.Http.WebHost.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\EntityFramework.SqlServer.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.dll
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.pdb
+F:\FW Projects\IGL_DPR_MVC\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.csprojResolveAssemblyReference.cache
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll.config
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.pdb
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Antlr3.Runtime.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\BAL.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\EntityFramework.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\EntityFramework.SqlServer.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\MultipartDataMediaFormatter.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Newtonsoft.Json.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Owin.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Net.Http.Formatting.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Cors.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Helpers.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.Cors.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.WebHost.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Mvc.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Optimization.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Razor.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\WebGrease.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\DAL.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\BAL.pdb
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Net.Http.Formatting.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.Cors.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Helpers.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Mvc.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Optimization.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Razor.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Antlr3.Runtime.pdb
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Newtonsoft.Json.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\System.Web.Http.WebHost.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\EntityFramework.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\EntityFramework.SqlServer.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.csprojResolveAssemblyReference.cache
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.dll
+D:\SD_Projects\DPR\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.pdb
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll.config
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\IGL_DPR_MVC.pdb
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Antlr3.Runtime.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\BAL.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\EntityFramework.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\MultipartDataMediaFormatter.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Newtonsoft.Json.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Owin.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Cors.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Helpers.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.Cors.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Mvc.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Optimization.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Razor.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\WebGrease.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\DAL.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\BAL.pdb
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.Cors.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Helpers.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Mvc.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Optimization.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Razor.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Antlr3.Runtime.pdb
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Newtonsoft.Json.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\EntityFramework.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.csprojResolveAssemblyReference.cache
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.dll
+C:\Users\hemant.FW-NO-FWSI.000\Desktop\my work\Services\IGL_DPR_MVC\obj\Release\IGL_DPR_MVC.pdb
